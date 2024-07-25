@@ -2,7 +2,7 @@
   <img src="./malkman.png" alt="Project Image" width="500" height="auto">
 </p>
 
-The Malkman project is designed to provide a complete, standalone audio playback system with interactive features and visual feedback. Utilizing the STM32F411E-Disco board, a GPD2846A MP3 decoder module, Neopixel RGB LED strip, and various input/output peripherals, this project aims to deliver an engaging and versatile audio experience. The system supports MP3 playback from an SD card, offers intuitive user controls, and integrates a visualizer to enhance the listening experience.
+The Malkman project is designed to provide a complete, standalone audio playback system with interactive features and visual feedback. Utilizing the STM32F411E-Disco board, a GPD2846A MP3 decoder module, Neopixel RGB LED strip, and various input/output peripherals, this project aims to deliver an engaging and versatile audio experience. The system supports MP3 playback from an SD card and offers intuitive user controls.
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -28,7 +28,7 @@ The MP3 Player includes features such as:
 2. **Track Navigation:** Users can navigate between tracks using next and previous controls.
 3. **Volume Control:** Users can adjust the volume using buttons or a rotation sensor.
 4. **Track Information Display:** The player will display the current track information on the screen.
-5. **Visual Effects:** Use a Neopixel RGB light strip to provide visual feedback based on the audio signal.
+<!--5. **Visual Effects:** Use a Neopixel RGB light strip to provide visual feedback based on the audio signal.-->
 
 ## Contributing
 We welcome contributions to this project! To ensure a smooth contribution process, please follow the guidelines below:
