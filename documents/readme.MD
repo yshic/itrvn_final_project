@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./malkman.png" alt="Project Image" width="500" height="auto">
+</p>
+
+The MP3 Player project is designed to provide a complete, standalone audio playback system with interactive features and visual feedback. Utilizing the STM32F411E-Disco board, a GPD2846A MP3 decoder module, Neopixel RGB LED strip, and various input/output peripherals, this project aims to deliver an engaging and versatile audio experience. The system supports MP3 playback from an SD card, offers intuitive user controls, and integrates a visualizer to enhance the listening experience.
+
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Technologies](#technologies)
@@ -26,4 +32,4 @@ We welcome contributions to this project! To ensure a smooth contribution proces
 6. Create a Pull Request with a detailed description of the changes you have made.
 7. Wait for feedback and make any requested changes from the code reviewer.
 8. Once your Pull Request is approved, thank you for your contribution and support!
-* **Note**: Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue on the project's [GitHub repository]() or contact us [ITR VN](https://itrvn.com/).
+* **Note**: Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue on the project's [GitHub repository](https://github.com/yshic/itrvn_final_project/tree/main) or contact us [ITR VN](https://itrvn.com/).
